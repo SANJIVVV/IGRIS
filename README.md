@@ -9,3 +9,9 @@ IGRIS is a dynamic, gamified language-learning platform that combines engaging q
 HOMEPAGE
 
 [![IGRIS Homepage Preview](OUTPUT/1.png)](https://sanjivvv.github.io/igris/)
+
+
+PREVIEW
+
+[![IGRIS  Preview](OUTPUT/4.png)](https://sanjivvv.github.io/igris/)
+[![IGRIS  Preview](OUTPUT/8.png)](https://sanjivvv.github.io/igris/)
